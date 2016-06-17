@@ -1,0 +1,1 @@
+I only update my completion list at a specified interval. Useful for slow algorithms e.g. pulling search results from Google. Use me the same way you would a vanilla EntryCompletion
