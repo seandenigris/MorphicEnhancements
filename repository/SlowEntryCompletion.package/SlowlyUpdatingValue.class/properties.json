@@ -1,0 +1,15 @@
+{
+	"category" : "SlowEntryCompletion",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastUpdate",
+		"cache" ],
+	"name" : "SlowlyUpdatingValue",
+	"pools" : [
+		 ],
+	"super" : "EntryCompletion",
+	"type" : "normal" }
